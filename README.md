@@ -1,12 +1,11 @@
-#Web Calculator Instructions
-In this two-part exercise you are tasked with creating a Web Calculator. This calculator should accept two numbers from the user and provide them with the answer.
-Part One
-In the first part of the exercise, your calculator will be doing addition only. Your calculator should be made up of two fields for the user to provide you with numbers. It should have some indicator that lets the user know you will be adding them together. It should have a button for the user to request the answer. Finally, it should display that answer on the screen for the user. Your solution should consist of the HTML page that is presented to the user and the JavaScript code that will do the calculation.
-You should create a branch named part-one-answer to which you will commit your files. This branch should be pushed to GitHub. On GitHub you should create a pull request and add your instructor as a reviewer.
-Extra Credit
-To receive extra credit for this assignment, make it pretty. Use what you have learned about CSS to make your calculator look awesome.
-Part Two
-In the second part of the exercise, you will update your calculator such that it will be able to perform all four basic math operations (+, -, *, /) on the two numbers provided. You should update your HTML to include a way for the user to choose their operation and update your JavaScript to perform the correct calculation.
-You should create a branch named part-two-answer to which you will commit your files. This branch should be pushed to GitHub. On GitHub you should create a pull request and add your instructor as a reviewer.
-8:30
-web-calculator part 1 is the homework for this week.  Part 2 will be homework due on June 27
+#Web Calculator Answers
+1) Identify the component of this assignment that you did the best on, and why. 
+    1 Answer) It's hard to say but I think the HTML portion. It made the most sense to me and was easiest to research when I felt stuck.
+2) Describe in plain English what problem this assignment was posing, and what your solution was to it.  
+    2 Answer) The problem I faced was creating a functioning and interactive caclulator. My solution was lots of YouTube.
+3) What was your approach or process?  
+    3 Answer) First I tried to get as far as possible without getting help. Then when I was stuck I received help from Alex and reading Mohamed's code while going through it with Alex. After we ran out of time I re-visited the slides from class and watched YouTube videos and read online articles for assistance. 
+4) What were your challenges?  
+    4 Answer) It was all fairly challenging but I'm struggling the most with GitHub (pushing, pull requests, merging, etc.) and JavaScript. I kept thinking I figured out how to make the calculator work but I was going around in circles. At one point I deleted my JavaScript and started from scratch looking for a different approach.
+5) What resources did you use?   
+    5 Answer) Everything I could. I used the slides, the TCs, YouTube, JSfiddle & freecodecamp.org.
