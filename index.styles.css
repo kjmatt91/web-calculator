@@ -4,6 +4,7 @@ body {
     margin: 1;
     background: linear-gradient(to right, yellow, purple)
 }
+
 section {
     border: 10px;
     height: 90vh;
@@ -11,6 +12,7 @@ section {
     align-items: center;
     justify-content: center;
 }
+
 .container {
     border: 10px;
     max-width: 700px;
@@ -20,6 +22,7 @@ section {
     align-items: center;
     justify-content: center;
 }
+
 .solution {
     border: 10px;
     max-width: 700px;
@@ -34,6 +37,7 @@ section {
     align-items: center;
     justify-content: center;
 }
+
 .box {
     border: 10px;
     max-width: 700px;
@@ -49,9 +53,11 @@ section {
     left: 0;
     margin: auto;
 }
+
 h1 {
     color:darkblue;
 }
+
 label {
-    color:black ;
+    color:black;
 }
