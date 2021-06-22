@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Web Calculator</title>
+        <script src="./index.script.js" defer></script>
+        <link href="index.styles.css" rel="stylesheet">
+    </head>
+    <body>
+        <section>
+            <div class="container">
+                <h1>Web Calculator</h1>
+            </div>
+            <div class="solution">
+                <h1 id="answer"></h1>
+            </div>
+            <div class="box">
+                <label for="num1">Num 1</label>
+                <input id="num1" type="text" />
+                <label for="num2">Num 2</label>
+                <input id="num2" type="text" />
+                <button onclick="add()">+</button>
+                <button onclick="subtract()">-</button>
+                <button onclick="multiply()">*</button>
+                <button onclick="divide()">/</button>
+            </div>
+        </section>
+    </body>
+</html>
